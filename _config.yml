@@ -45,7 +45,6 @@ projects:
   # vk: your_username
    website: http://twosails.github.io
   # youtube: your_username
-   github: https://github.com/TwoSails
 
 topics:
   - name: Python
