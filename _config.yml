@@ -28,8 +28,9 @@ projects:
     projects:
     # - repo-name
 
- # social_media:
+social_media:
   # behance: your_username
+  website: http://twosails.github.io
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
@@ -43,7 +44,6 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://twosails.github.io
   # youtube: your_username
 
 topics:
